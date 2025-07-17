@@ -3,4 +3,4 @@ A collection of useful information.
 
 ![white_monster.jpg](white_monster.jpg)
 
-[[Git.md]]
+[Git](Git.md)
