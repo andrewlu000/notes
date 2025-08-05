@@ -23,3 +23,8 @@ git pull --autostash
 ```
 - supremely useful for when you have already done edits on your repo but you forgot to pull
 - automatically stashes your changes
+
+### pull submodules with main repo
+```
+git clone --recurse-submodules (repo)
+```
