@@ -1,0 +1,2 @@
+- MacOS thinks something is malware
+	- `xattr -r -d`
