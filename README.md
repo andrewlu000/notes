@@ -6,3 +6,4 @@ A collection of useful information.
 - [PyQt5](PyQt5.md)
 - [Git](Git.md)
 - [MacOS](MacOS)
+- [Unix](Unix.md)
